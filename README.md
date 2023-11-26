@@ -1,4 +1,5 @@
-![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
+
+![MasterHead](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
 <h1 align="center">Hi 👋, I'm dharshana</h1>
 <h3 align="center">A passionate Fullstack Web developer from India</h3>
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharshana297" alt="dharshana297" /></a> </p>
 
-- 🌱 I’m currently learning **MEVN**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **dharshana0729@gmail.com**
 
